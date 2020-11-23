@@ -1,0 +1,14 @@
+img {
+    max-width: 100%;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: royalblue;
+    color: white;
+}
+
+h1 {
+    font-family: sans-serif;
+    color: white;
+}
